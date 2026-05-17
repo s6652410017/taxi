@@ -1,11 +1,11 @@
 import { useState } from "react";
 import {
-    Image,
-    StyleSheet,
-    Text,
-    TextInput,
-    TouchableOpacity,
-    View,
+  Image,
+  StyleSheet,
+  Text,
+  TextInput,
+  TouchableOpacity,
+  View,
 } from "react-native";
 
 export default function Calculate() {
@@ -125,7 +125,6 @@ export default function Calculate() {
       </View>
 
       <View style={styles.footer}>
-        <Text style={styles.footerText}>ID: 6652410017</Text>
         <Text style={styles.footerText}>
           NAME: Pattarapon Lertsanthia
         </Text>

@@ -35,7 +35,6 @@ useEffect(() => {
       </View>
 
       <View style={styles.footer}>
-        <Text style={styles.footerText}>ID: 6652410017</Text>
         <Text style={styles.footerText}>
           NAME: Pattarapon Lertsanthia
         </Text>
